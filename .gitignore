@@ -1,2 +1,5 @@
-
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 .DS_Store
+*/.DS_Store
+>>>>>>> d24f3af201bb26f62fc2ffd4eb23d8907239fb07
